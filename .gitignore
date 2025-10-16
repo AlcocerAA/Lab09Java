@@ -1,0 +1,16 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Base de datos local y carpeta data
+data/
+*.db
+
+# logs y temporales
+*.log
+*.tmp

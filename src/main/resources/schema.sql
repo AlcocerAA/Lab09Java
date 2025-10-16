@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS accounts (
+  id INTEGER PRIMARY KEY,
+  balance NUMERIC NOT NULL
+);
